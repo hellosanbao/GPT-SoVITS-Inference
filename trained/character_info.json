@@ -1,0 +1,25 @@
+{
+    "deflaut_character": "",
+    "characters_and_emotions": {
+        "LOL_Ez": [
+            "default",
+            "嘲讽",
+            "开心",
+            "惊恐",
+            "生气",
+            "难过"
+        ],
+        "LOL_Guanghui": [
+            "default",
+            "中立",
+            "吃惊",
+            "嘲笑",
+            "开心",
+            "生气",
+            "难过"
+        ],
+        "Hutao": [
+            "default"
+        ]
+    }
+}

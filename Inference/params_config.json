@@ -27,7 +27,7 @@
         "type": "string",
         "description": "Language of the text.",
         "alias": ["text_language", "lang", "language", "lan", "text_lang", "xml:lang"],
-        "default": "auto"
+        "default": "zh"
     },
     "character": {
         "type": "string",
