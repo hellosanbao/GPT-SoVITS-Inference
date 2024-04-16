@@ -33,7 +33,7 @@
         "type": "string",
         "description": "Language of the text.",
         "alias": ["text_language", "lang", "language","lan"],
-        "default": "auto"
+        "default": "zh"
     },
     "batch_size": {
         "type": "int",
